@@ -1,0 +1,6 @@
+export { AiAssistantPanel } from "./ai-assistant-panel"
+export { AiRecommendationCard } from "./ai-recommendation-card"
+export { AiEvidenceList } from "./ai-evidence-list"
+export { AiCardFooter } from "./ai-card-footer"
+export { demoRecommendations } from "./demo-data"
+export type { Recommendation, RecommendationType, ConfidenceLevel, EvidenceItem, RecommendationAction } from "./types"
