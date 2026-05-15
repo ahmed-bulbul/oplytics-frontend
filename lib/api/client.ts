@@ -3,7 +3,7 @@
  * Reads NEXT_PUBLIC_API_URL from env (defaults to http://localhost:8080).
  */
 
-export const API_BASE = 'http://24.144.113.235:8080';
+export const API_BASE = 'https://api.optilytics.io';
 
 // ─── Error type ──────────────────────────────────────────────────────────────
 
